@@ -1,0 +1,221 @@
+[
+  {
+    "id": "62153",
+    "name": "5.0\" NVIDIA 32GB",
+    "price": "233 568 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "10 GB",
+    "sim": "1 SIM",
+    "acc": "3574 мА * ч"
+  },
+  {
+    "id": "33466",
+    "name": "6.4\" HGST 32GB",
+    "price": "270 735 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "2 GB",
+    "sim": "4 SIM",
+    "matrix": "AMOLED",
+    "resolution": "1366x2160",
+    "camera": "127 MP"
+  },
+  {
+    "id": "55782",
+    "name": "7.2\" VIVO 160GB",
+    "price": "334 548 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "6 GB",
+    "matrix": "OLED",
+    "camera": "41 MP"
+  },
+  {
+    "id": "34142",
+    "name": "7.3\" Broadcom 192GB",
+    "price": "362 226 ₽",
+    "processor": "8x1.2 ГГц",
+    "matrix": "IPS",
+    "resolution": "2560x1080",
+    "camera": "74 MP",
+    "acc": "4622 мА * ч"
+  },
+  {
+    "id": "73755",
+    "name": "6.0\" LaCie 160GB",
+    "price": "124 486 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "16 GB",
+    "matrix": "OLED",
+    "resolution": "1600x1080",
+    "camera": "105 MP",
+    "acc": "2786 мА * ч"
+  },
+  {
+    "id": "56002",
+    "name": "6.9\" LG 96GB",
+    "price": "211 821 ₽",
+    "processor": "8x1.2 ГГц",
+    "sim": "4 SIM",
+    "resolution": "1920x768",
+    "camera": "85 MP"
+  },
+  {
+    "id": "84550",
+    "name": "5.7\" LaCie 96GB",
+    "price": "494 715 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "7 GB",
+    "matrix": "IPS",
+    "camera": "112 MP",
+    "acc": "7526 мА * ч"
+  },
+  {
+    "id": "92976",
+    "name": "6.0\" Motorola 128GB",
+    "price": "158 390 ₽",
+    "processor": "8x1.2 ГГц",
+    "sim": "2 SIM",
+    "resolution": "1920x1440",
+    "camera": "39 MP"
+  },
+  {
+    "id": "46135",
+    "name": "7.3\" Asus 224GB",
+    "price": "301 787 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "14 GB",
+    "sim": "4 SIM",
+    "matrix": "AMOLED",
+    "camera": "87 MP",
+    "acc": "7314 мА * ч"
+  },
+  {
+    "id": "36285",
+    "name": "7.1\" NVIDIA 48GB",
+    "price": "268 438 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "16 GB",
+    "sim": "2 SIM",
+    "matrix": "IPS",
+    "acc": "3650 мА * ч"
+  },
+  {
+    "id": "79912",
+    "name": "6.4\" Alcatel 256GB",
+    "price": "187 802 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "2 GB",
+    "sim": "3 SIM",
+    "resolution": "1024x1366",
+    "camera": "17 MP",
+    "acc": "4491 мА * ч"
+  },
+  {
+    "id": "62283",
+    "name": "5.3\" OPPO 144GB",
+    "price": "362 539 ₽",
+    "processor": "8x1.2 ГГц",
+    "matrix": "OLED",
+    "resolution": "2560x1200",
+    "camera": "102 MP",
+    "acc": "6039 мА * ч"
+  },
+  {
+    "id": "99473",
+    "name": "5.5\" Corsair 16GB",
+    "price": "295 058 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "15 GB",
+    "sim": "3 SIM",
+    "matrix": "OLED",
+    "resolution": "1920x1080"
+  },
+  {
+    "id": "91724",
+    "name": "5.5\" ASUS 208GB",
+    "price": "309 241 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "8 GB",
+    "sim": "3 SIM",
+    "matrix": "OLED",
+    "camera": "26 MP",
+    "acc": "2892 мА * ч"
+  },
+  {
+    "id": "33798",
+    "name": "6.0\" Samsung Note 144GB",
+    "price": "89 520 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "15 GB",
+    "matrix": "OLED",
+    "resolution": "1600x1440",
+    "camera": "66 MP"
+  },
+  {
+    "id": "47667",
+    "name": "6.2\" Seagate 80GB",
+    "price": "91 154 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "13 GB",
+    "sim": "3 SIM",
+    "matrix": "OLED",
+    "resolution": "1920x2160",
+    "camera": "97 MP"
+  },
+  {
+    "id": "22835",
+    "name": "6.4\" LaCie 112GB",
+    "price": "312 556 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "12 GB",
+    "camera": "90 MP",
+    "acc": "3327 мА * ч"
+  },
+  {
+    "id": "89245",
+    "name": "6.0\" Blackberry 112GB",
+    "price": "134 540 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "6 GB",
+    "resolution": "1024x1440",
+    "camera": "97 MP"
+  },
+  {
+    "id": "70001",
+    "name": "5.6\" Toshiba 224GB",
+    "price": "367 158 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "3 GB",
+    "sim": "1 SIM",
+    "resolution": "1600x1200"
+  },
+  {
+    "id": "33607",
+    "name": "5.6\" PNY 80GB",
+    "price": "445 406 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "7 GB",
+    "sim": "4 SIM",
+    "resolution": "1920x2160",
+    "camera": "66 MP",
+    "acc": "2023 мА * ч"
+  },
+  {
+    "id": "21914",
+    "name": "7.2\" Toshiba 240GB",
+    "price": "284 131 ₽",
+    "processor": "8x1.2 ГГц",
+    "matrix": "AMOLED",
+    "resolution": "1920x1366",
+    "camera": "70 MP"
+  },
+  {
+    "id": "20568",
+    "name": "5.7\" Lenovo 208GB",
+    "price": "106 040 ₽",
+    "processor": "8x1.2 ГГц",
+    "ram": "2 GB",
+    "matrix": "IPS",
+    "resolution": "2560x1440",
+    "acc": "6930 мА * ч"
+  }
+]

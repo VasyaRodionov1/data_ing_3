@@ -1,0 +1,2867 @@
+[
+  {
+    "clothing": {
+      "id": "462647404",
+      "name": "Ellesse Socks W-3580",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Голубой",
+      "material": "Шерсть",
+      "price": 136218,
+      "rating": 3.72,
+      "reviews": 517323,
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "119311425",
+      "name": "Asics Socks G-5677",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Фиолетовый",
+      "material": "Кожа",
+      "price": 838737,
+      "rating": 3.53,
+      "reviews": 253586,
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "999337807",
+      "name": "Puma Socks H-7411",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Голубой",
+      "material": "Хлопок",
+      "price": 159126,
+      "rating": 4.56,
+      "reviews": 551418,
+      "new": "+",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "974907939",
+      "name": "Fila Socks R-8556",
+      "category": "Socks",
+      "size": "S",
+      "color": "Желтый",
+      "material": "Шерсть",
+      "price": 396931,
+      "rating": 3.64,
+      "reviews": 426771,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "728191187",
+      "name": "Reebok Socks S-4910",
+      "category": "Socks",
+      "size": "S",
+      "color": "Фиолетовый",
+      "material": "Нейлон",
+      "price": 831023,
+      "rating": 4.02,
+      "reviews": 703312,
+      "new": "+",
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "904549884",
+      "name": "Converse Socks S-8464",
+      "category": "Socks",
+      "size": "S",
+      "color": "Голубой",
+      "material": "Шерсть",
+      "price": 281832,
+      "rating": 1.32,
+      "reviews": 343911,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "576677702",
+      "name": "Under Armour Socks U-4628",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Зеленый",
+      "material": "Нейлон",
+      "price": 361747,
+      "rating": 4.29,
+      "reviews": 512938,
+      "new": "+",
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "621693418",
+      "name": "Fila Socks B-7551",
+      "category": "Socks",
+      "size": "M",
+      "color": "Красный",
+      "material": "Шерсть",
+      "price": 786853,
+      "rating": 3.85,
+      "reviews": 632906,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "858178559",
+      "name": "Lacoste Socks G-2211",
+      "category": "Socks",
+      "size": "M",
+      "color": "Желтый",
+      "material": "Вискоза",
+      "price": 745445,
+      "rating": 1.2,
+      "reviews": 48089,
+      "new": "+",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "885235732",
+      "name": "PleinSport Socks F-2296",
+      "category": "Socks",
+      "size": "M",
+      "color": "Желтый",
+      "material": "Лен",
+      "price": 905677,
+      "rating": 1.06,
+      "reviews": 213406,
+      "new": "-"
+    }
+  },
+  {
+    "clothing": {
+      "id": "687103468",
+      "name": "DC Socks J-3472",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Зеленый",
+      "material": "Вискоза",
+      "price": 451012,
+      "rating": 1.44,
+      "reviews": 589393,
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "168565854",
+      "name": "Under Armour Socks F-2111",
+      "category": "Socks",
+      "size": "M",
+      "color": "Зеленый",
+      "material": "Шелк",
+      "price": 469374,
+      "rating": 2.08,
+      "reviews": 832874,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "746936566",
+      "name": "PleinSport Socks D-7280",
+      "category": "Socks",
+      "size": "M",
+      "color": "Синий",
+      "material": "Лен",
+      "price": 952398,
+      "rating": 1.62,
+      "reviews": 802984,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "659547420",
+      "name": "Asics Socks T-4758",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Красный",
+      "material": "Лен",
+      "price": 959438,
+      "rating": 1.7,
+      "reviews": 659555,
+      "new": "-",
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "128209481",
+      "name": "New Balance Socks X-3827",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Оранжевый",
+      "material": "Нейлон",
+      "price": 738666,
+      "rating": 4.91,
+      "reviews": 947628,
+      "new": "-"
+    }
+  },
+  {
+    "clothing": {
+      "id": "689674328",
+      "name": "Brooks Socks V-1009",
+      "category": "Socks",
+      "size": "S",
+      "color": "Синий",
+      "material": "Шерсть",
+      "price": 588970,
+      "rating": 4.47,
+      "reviews": 872926,
+      "new": "-",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "309816041",
+      "name": "Addidas Socks G-6224",
+      "category": "Socks",
+      "size": "L",
+      "color": "Оранжевый",
+      "material": "Нейлон",
+      "price": 654759,
+      "rating": 2.16,
+      "reviews": 463900,
+      "new": "+",
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "569598928",
+      "name": "Addidas Socks C-3508",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Зеленый",
+      "material": "Шерсть",
+      "price": 507776,
+      "rating": 2.25,
+      "reviews": 536976,
+      "new": "-",
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "733381569",
+      "name": "Fila Socks G-7616",
+      "category": "Socks",
+      "size": "L",
+      "color": "Голубой",
+      "material": "Хлопок",
+      "price": 749935,
+      "rating": 2.64,
+      "reviews": 126737,
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "611422487",
+      "name": "PleinSport Socks Z-8920",
+      "category": "Socks",
+      "size": "L",
+      "color": "Фиолетовый",
+      "material": "Шерсть",
+      "price": 114979,
+      "rating": 1.66,
+      "reviews": 827802,
+      "new": "+",
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "219544560",
+      "name": "Asics Socks H-2547",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Красный",
+      "material": "Полиэстер",
+      "price": 647387,
+      "rating": 1.42,
+      "reviews": 192181,
+      "new": "-",
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "463066446",
+      "name": "Adidas Socks J-9642",
+      "category": "Socks",
+      "size": "L",
+      "color": "Оранжевый",
+      "material": "Кожа",
+      "price": 555203,
+      "rating": 4.09,
+      "reviews": 6248,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "826233392",
+      "name": "PleinSport Socks K-5723",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Желтый",
+      "material": "Шерсть",
+      "price": 247463,
+      "rating": 2.74,
+      "reviews": 501869,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "823943412",
+      "name": "Brooks Socks L-9849",
+      "category": "Socks",
+      "size": "S",
+      "color": "Желтый",
+      "material": "Шелк",
+      "price": 831388,
+      "rating": 3.32,
+      "reviews": 954037,
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "370601898",
+      "name": "Asics Socks J-6792",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Голубой",
+      "material": "Лен",
+      "price": 364796,
+      "rating": 1.96,
+      "reviews": 798888,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "379041866",
+      "name": "PleinSport Socks Q-5527",
+      "category": "Socks",
+      "size": "L",
+      "color": "Зеленый",
+      "material": "Кожа",
+      "price": 553347,
+      "rating": 4.18,
+      "reviews": 39626,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "444153416",
+      "name": "Lacoste Socks V-4416",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Оранжевый",
+      "material": "Хлопок",
+      "price": 441446,
+      "rating": 3.8,
+      "reviews": 351024,
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "501179267",
+      "name": "Nike Socks L-5902",
+      "category": "Socks",
+      "size": "S",
+      "color": "Желтый",
+      "material": "Хлопок",
+      "price": 874832,
+      "rating": 3.68,
+      "reviews": 463350,
+      "new": "+",
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "294170681",
+      "name": "Lacoste Socks G-4917",
+      "category": "Socks",
+      "size": "L",
+      "color": "Оранжевый",
+      "material": "Лен",
+      "price": 862412,
+      "rating": 1.29,
+      "reviews": 882275,
+      "new": "+",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "393333535",
+      "name": "New Balance Socks L-5533",
+      "category": "Socks",
+      "size": "L",
+      "color": "Красный",
+      "material": "Вискоза",
+      "price": 268670,
+      "rating": 1.29,
+      "reviews": 700017,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "108938472",
+      "name": "Asics Socks T-6260",
+      "category": "Socks",
+      "size": "S",
+      "color": "Голубой",
+      "material": "Вискоза",
+      "price": 787697,
+      "rating": 2.64,
+      "reviews": 454933,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "928370990",
+      "name": "Ellesse Socks X-5862",
+      "category": "Socks",
+      "size": "S",
+      "color": "Фиолетовый",
+      "material": "Хлопок",
+      "price": 124884,
+      "rating": 2.21,
+      "reviews": 190961
+    }
+  },
+  {
+    "clothing": {
+      "id": "928736099",
+      "name": "Lacoste Socks X-2270",
+      "category": "Socks",
+      "size": "M",
+      "color": "Синий",
+      "material": "Лен",
+      "price": 772026,
+      "rating": 4.36,
+      "reviews": 81584,
+      "new": "+",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "497421531",
+      "name": "Reebok Socks I-1918",
+      "category": "Socks",
+      "size": "S",
+      "color": "Оранжевый",
+      "material": "Лен",
+      "price": 485720,
+      "rating": 2.6,
+      "reviews": 362411,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "615592627",
+      "name": "Converse Socks C-5185",
+      "category": "Socks",
+      "size": "M",
+      "color": "Голубой",
+      "material": "Лен",
+      "price": 622443,
+      "rating": 2.09,
+      "reviews": 594406,
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "974845660",
+      "name": "Asics Socks W-4119",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Синий",
+      "material": "Нейлон",
+      "price": 402463,
+      "rating": 4.85,
+      "reviews": 265320,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "896435003",
+      "name": "Addidas Socks C-8305",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Красный",
+      "material": "Вискоза",
+      "price": 674841,
+      "rating": 2.75,
+      "reviews": 319492,
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "225107353",
+      "name": "DC Socks A-5240",
+      "category": "Socks",
+      "size": "L",
+      "color": "Фиолетовый",
+      "material": "Нейлон",
+      "price": 429178,
+      "rating": 4.13,
+      "reviews": 440026,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "591028739",
+      "name": "Adidas Socks T-3862",
+      "category": "Socks",
+      "size": "M",
+      "color": "Оранжевый",
+      "material": "Полиэстер",
+      "price": 358111,
+      "rating": 1.87,
+      "reviews": 22260,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "752569880",
+      "name": "Under Armour Socks J-7790",
+      "category": "Socks",
+      "size": "L",
+      "color": "Зеленый",
+      "material": "Кожа",
+      "price": 965381,
+      "rating": 4.58,
+      "reviews": 173404,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "865157092",
+      "name": "Brooks Socks Z-6736",
+      "category": "Socks",
+      "size": "S",
+      "color": "Фиолетовый",
+      "material": "Шелк",
+      "price": 789001,
+      "rating": 4.55,
+      "reviews": 248863,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "221353047",
+      "name": "DC Socks X-3386",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Синий",
+      "material": "Полиэстер",
+      "price": 808292,
+      "rating": 2.04,
+      "reviews": 589998,
+      "new": "+",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "495012003",
+      "name": "Reebok Socks U-1945",
+      "category": "Socks",
+      "size": "S",
+      "color": "Желтый",
+      "material": "Лен",
+      "price": 148551,
+      "rating": 3.77,
+      "reviews": 746888,
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "552141908",
+      "name": "Ellesse Socks Y-8002",
+      "category": "Socks",
+      "size": "S",
+      "color": "Голубой",
+      "material": "Шелк",
+      "price": 554779,
+      "rating": 3.29,
+      "reviews": 665052
+    }
+  },
+  {
+    "clothing": {
+      "id": "645488792",
+      "name": "Lacoste Socks Q-3138",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Голубой",
+      "material": "Хлопок",
+      "price": 710157,
+      "rating": 4.98,
+      "reviews": 845394,
+      "new": "-",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "885300050",
+      "name": "Puma Socks J-1794",
+      "category": "Socks",
+      "size": "M",
+      "color": "Желтый",
+      "material": "Нейлон",
+      "price": 212039,
+      "rating": 1.85,
+      "reviews": 663962,
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "259620046",
+      "name": "Vans Socks W-3139",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Фиолетовый",
+      "material": "Кожа",
+      "price": 714440,
+      "rating": 1.51,
+      "reviews": 757727,
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "774935407",
+      "name": "Fila Socks M-7568",
+      "category": "Socks",
+      "size": "S",
+      "color": "Фиолетовый",
+      "material": "Хлопок",
+      "price": 593775,
+      "rating": 3.66,
+      "reviews": 20081,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "929354596",
+      "name": "Asics Socks Y-2336",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Фиолетовый",
+      "material": "Нейлон",
+      "price": 187132,
+      "rating": 1.23,
+      "reviews": 444371,
+      "new": "-",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "361496891",
+      "name": "Vans Socks W-2717",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Зеленый",
+      "material": "Полиэстер",
+      "price": 659063,
+      "rating": 3.46,
+      "reviews": 419856,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "771073229",
+      "name": "Reebok Socks Z-5121",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Оранжевый",
+      "material": "Шелк",
+      "price": 553465,
+      "rating": 3.57,
+      "reviews": 638213,
+      "new": "+"
+    }
+  },
+  {
+    "clothing": {
+      "id": "568741172",
+      "name": "Vans Socks S-8562",
+      "category": "Socks",
+      "size": "L",
+      "color": "Синий",
+      "material": "Кожа",
+      "price": 796305,
+      "rating": 3.34,
+      "reviews": 112218,
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "701898069",
+      "name": "Under Armour Socks S-9233",
+      "category": "Socks",
+      "size": "S",
+      "color": "Зеленый",
+      "material": "Кожа",
+      "price": 613243,
+      "rating": 4.98,
+      "reviews": 307571,
+      "new": "-",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "633505830",
+      "name": "Vans Socks N-1281",
+      "category": "Socks",
+      "size": "M",
+      "color": "Голубой",
+      "material": "Полиэстер",
+      "price": 582847,
+      "rating": 1.29,
+      "reviews": 853255
+    }
+  },
+  {
+    "clothing": {
+      "id": "710333315",
+      "name": "Converse Socks I-8130",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Зеленый",
+      "material": "Кожа",
+      "price": 900536,
+      "rating": 1.0,
+      "reviews": 964569,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "684057589",
+      "name": "Brooks Socks P-7945",
+      "category": "Socks",
+      "size": "M",
+      "color": "Оранжевый",
+      "material": "Хлопок",
+      "price": 141803,
+      "rating": 1.61,
+      "reviews": 11187,
+      "new": "+",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "232872160",
+      "name": "Converse Socks O-5355",
+      "category": "Socks",
+      "size": "L",
+      "color": "Фиолетовый",
+      "material": "Вискоза",
+      "price": 617702,
+      "rating": 4.08,
+      "reviews": 461710,
+      "new": "-",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "368770169",
+      "name": "New Balance Socks P-9504",
+      "category": "Socks",
+      "size": "S",
+      "color": "Синий",
+      "material": "Хлопок",
+      "price": 490171,
+      "rating": 2.23,
+      "reviews": 243817,
+      "new": "+",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "105453918",
+      "name": "Adidas Socks A-8483",
+      "category": "Socks",
+      "size": "L",
+      "color": "Синий",
+      "material": "Шерсть",
+      "price": 784614,
+      "rating": 1.52,
+      "reviews": 406168,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "553083225",
+      "name": "Lacoste Socks A-6087",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Оранжевый",
+      "material": "Хлопок",
+      "price": 661457,
+      "rating": 2.27,
+      "reviews": 79912,
+      "new": "+",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "884968813",
+      "name": "Lacoste Socks V-7432",
+      "category": "Socks",
+      "size": "S",
+      "color": "Синий",
+      "material": "Кожа",
+      "price": 605832,
+      "rating": 4.77,
+      "reviews": 718958,
+      "new": "+",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "707743552",
+      "name": "Under Armour Socks I-6015",
+      "category": "Socks",
+      "size": "S",
+      "color": "Синий",
+      "material": "Шерсть",
+      "price": 233202,
+      "rating": 3.12,
+      "reviews": 333304,
+      "new": "+",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "300572645",
+      "name": "Vans Socks B-3794",
+      "category": "Socks",
+      "size": "L",
+      "color": "Зеленый",
+      "material": "Шелк",
+      "price": 331282,
+      "rating": 1.98,
+      "reviews": 175889,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "642332466",
+      "name": "Adidas Socks Y-7502",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Синий",
+      "material": "Шерсть",
+      "price": 412870,
+      "rating": 1.99,
+      "reviews": 786127,
+      "new": "-",
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "590284567",
+      "name": "Reebok Socks O-9430",
+      "category": "Socks",
+      "size": "S",
+      "color": "Оранжевый",
+      "material": "Вискоза",
+      "price": 192644,
+      "rating": 3.97,
+      "reviews": 825647,
+      "new": "+"
+    }
+  },
+  {
+    "clothing": {
+      "id": "813760590",
+      "name": "Fila Socks S-8794",
+      "category": "Socks",
+      "size": "L",
+      "color": "Фиолетовый",
+      "material": "Хлопок",
+      "price": 947916,
+      "rating": 1.18,
+      "reviews": 263335,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "943502751",
+      "name": "New Balance Socks J-8484",
+      "category": "Socks",
+      "size": "S",
+      "color": "Фиолетовый",
+      "material": "Нейлон",
+      "price": 670339,
+      "rating": 2.18,
+      "reviews": 785273,
+      "new": "+",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "130360917",
+      "name": "Reebok Socks R-4444",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Синий",
+      "material": "Шерсть",
+      "price": 637579,
+      "rating": 3.33,
+      "reviews": 793933,
+      "new": "-",
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "345931187",
+      "name": "Vans Socks G-9110",
+      "category": "Socks",
+      "size": "S",
+      "color": "Зеленый",
+      "material": "Шерсть",
+      "price": 125610,
+      "rating": 3.73,
+      "reviews": 175248,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "434340658",
+      "name": "Reebok Socks J-9494",
+      "category": "Socks",
+      "size": "L",
+      "color": "Фиолетовый",
+      "material": "Полиэстер",
+      "price": 600354,
+      "rating": 4.38,
+      "reviews": 549221
+    }
+  },
+  {
+    "clothing": {
+      "id": "541509503",
+      "name": "Lacoste Socks Z-3449",
+      "category": "Socks",
+      "size": "L",
+      "color": "Фиолетовый",
+      "material": "Лен",
+      "price": 853121,
+      "rating": 4.47,
+      "reviews": 765780
+    }
+  },
+  {
+    "clothing": {
+      "id": "511371207",
+      "name": "Addidas Socks O-6259",
+      "category": "Socks",
+      "size": "L",
+      "color": "Красный",
+      "material": "Шелк",
+      "price": 159069,
+      "rating": 4.23,
+      "reviews": 984331,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "698892669",
+      "name": "Vans Socks H-7482",
+      "category": "Socks",
+      "size": "S",
+      "color": "Оранжевый",
+      "material": "Шелк",
+      "price": 968899,
+      "rating": 4.24,
+      "reviews": 463821,
+      "new": "-"
+    }
+  },
+  {
+    "clothing": {
+      "id": "121588547",
+      "name": "Converse Socks D-1307",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Синий",
+      "material": "Кожа",
+      "price": 498734,
+      "rating": 2.42,
+      "reviews": 613767,
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "732908097",
+      "name": "New Balance Socks T-5479",
+      "category": "Socks",
+      "size": "L",
+      "color": "Фиолетовый",
+      "material": "Хлопок",
+      "price": 125208,
+      "rating": 4.82,
+      "reviews": 74176
+    }
+  },
+  {
+    "clothing": {
+      "id": "910880612",
+      "name": "Converse Socks J-5623",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Фиолетовый",
+      "material": "Хлопок",
+      "price": 855851,
+      "rating": 3.11,
+      "reviews": 598935,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "781804430",
+      "name": "PleinSport Socks P-7465",
+      "category": "Socks",
+      "size": "M",
+      "color": "Фиолетовый",
+      "material": "Вискоза",
+      "price": 242346,
+      "rating": 2.79,
+      "reviews": 489406,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "267923931",
+      "name": "Under Armour Socks A-3159",
+      "category": "Socks",
+      "size": "M",
+      "color": "Красный",
+      "material": "Вискоза",
+      "price": 670146,
+      "rating": 4.43,
+      "reviews": 407767,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "925713801",
+      "name": "Brooks Socks X-6507",
+      "category": "Socks",
+      "size": "L",
+      "color": "Оранжевый",
+      "material": "Шерсть",
+      "price": 287261,
+      "rating": 3.07,
+      "reviews": 592227,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "423107844",
+      "name": "Ellesse Socks T-2185",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Синий",
+      "material": "Лен",
+      "price": 362286,
+      "rating": 4.34,
+      "reviews": 983332,
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "502857706",
+      "name": "Under Armour Socks K-3108",
+      "category": "Socks",
+      "size": "S",
+      "color": "Синий",
+      "material": "Нейлон",
+      "price": 889133,
+      "rating": 1.68,
+      "reviews": 516341,
+      "new": "+"
+    }
+  },
+  {
+    "clothing": {
+      "id": "625584464",
+      "name": "DC Socks A-6818",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Синий",
+      "material": "Полиэстер",
+      "price": 549134,
+      "rating": 3.38,
+      "reviews": 582468,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "733983554",
+      "name": "New Balance Socks O-1609",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Голубой",
+      "material": "Вискоза",
+      "price": 649184,
+      "rating": 4.2,
+      "reviews": 60947
+    }
+  },
+  {
+    "clothing": {
+      "id": "716747743",
+      "name": "Converse Socks T-4177",
+      "category": "Socks",
+      "size": "M",
+      "color": "Синий",
+      "material": "Хлопок",
+      "price": 467919,
+      "rating": 3.37,
+      "reviews": 47333,
+      "new": "+",
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "307248748",
+      "name": "Addidas Socks Y-4834",
+      "category": "Socks",
+      "size": "S",
+      "color": "Синий",
+      "material": "Хлопок",
+      "price": 654133,
+      "rating": 4.63,
+      "reviews": 658353,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "485849732",
+      "name": "Addidas Socks I-5252",
+      "category": "Socks",
+      "size": "M",
+      "color": "Синий",
+      "material": "Нейлон",
+      "price": 256996,
+      "rating": 3.17,
+      "reviews": 416087,
+      "new": "+",
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "503190758",
+      "name": "New Balance Socks W-5741",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Фиолетовый",
+      "material": "Шелк",
+      "price": 541750,
+      "rating": 1.74,
+      "reviews": 47335,
+      "new": "-"
+    }
+  },
+  {
+    "clothing": {
+      "id": "760801796",
+      "name": "Under Armour Socks Z-7430",
+      "category": "Socks",
+      "size": "S",
+      "color": "Оранжевый",
+      "material": "Хлопок",
+      "price": 693029,
+      "rating": 3.6,
+      "reviews": 547898,
+      "new": "+",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "284051681",
+      "name": "Adidas Socks F-1636",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Желтый",
+      "material": "Лен",
+      "price": 705707,
+      "rating": 4.56,
+      "reviews": 299920,
+      "new": "-",
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "684593699",
+      "name": "Lacoste Socks D-9885",
+      "category": "Socks",
+      "size": "L",
+      "color": "Синий",
+      "material": "Вискоза",
+      "price": 770372,
+      "rating": 2.99,
+      "reviews": 701570,
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "407842291",
+      "name": "Puma Socks W-2990",
+      "category": "Socks",
+      "size": "M",
+      "color": "Желтый",
+      "material": "Вискоза",
+      "price": 991576,
+      "rating": 3.25,
+      "reviews": 665482,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "400813591",
+      "name": "Nike Socks S-3042",
+      "category": "Socks",
+      "size": "L",
+      "color": "Оранжевый",
+      "material": "Хлопок",
+      "price": 665719,
+      "rating": 1.68,
+      "reviews": 192933,
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "453551882",
+      "name": "Ellesse Socks N-5100",
+      "category": "Socks",
+      "size": "S",
+      "color": "Голубой",
+      "material": "Лен",
+      "price": 930070,
+      "rating": 4.87,
+      "reviews": 26557,
+      "new": "+",
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "293827986",
+      "name": "Brooks Socks X-3275",
+      "category": "Socks",
+      "size": "L",
+      "color": "Зеленый",
+      "material": "Лен",
+      "price": 227526,
+      "rating": 2.11,
+      "reviews": 457159,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "373186747",
+      "name": "Addidas Socks U-8699",
+      "category": "Socks",
+      "size": "S",
+      "color": "Зеленый",
+      "material": "Шелк",
+      "price": 298109,
+      "rating": 4.04,
+      "reviews": 723439,
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "865696184",
+      "name": "Nike Socks Y-2537",
+      "category": "Socks",
+      "size": "L",
+      "color": "Зеленый",
+      "material": "Лен",
+      "price": 801470,
+      "rating": 1.67,
+      "reviews": 421770
+    }
+  },
+  {
+    "clothing": {
+      "id": "577393622",
+      "name": "Brooks Socks K-4003",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Синий",
+      "material": "Полиэстер",
+      "price": 394398,
+      "rating": 3.87,
+      "reviews": 309824,
+      "new": "+",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "744867397",
+      "name": "Vans Socks R-3290",
+      "category": "Socks",
+      "size": "S",
+      "color": "Красный",
+      "material": "Шелк",
+      "price": 119556,
+      "rating": 3.15,
+      "reviews": 692904,
+      "new": "-",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "368739749",
+      "name": "Reebok Socks H-1617",
+      "category": "Socks",
+      "size": "M",
+      "color": "Фиолетовый",
+      "material": "Полиэстер",
+      "price": 931505,
+      "rating": 3.45,
+      "reviews": 332260,
+      "new": "+",
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "366528898",
+      "name": "Brooks Socks C-8569",
+      "category": "Socks",
+      "size": "S",
+      "color": "Красный",
+      "material": "Вискоза",
+      "price": 110548,
+      "rating": 2.61,
+      "reviews": 637355,
+      "new": "-",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "953531761",
+      "name": "Reebok Socks K-9120",
+      "category": "Socks",
+      "size": "M",
+      "color": "Фиолетовый",
+      "material": "Лен",
+      "price": 894296,
+      "rating": 1.93,
+      "reviews": 865136,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "713131001",
+      "name": "Addidas Socks V-1349",
+      "category": "Socks",
+      "size": "L",
+      "color": "Красный",
+      "material": "Хлопок",
+      "price": 574414,
+      "rating": 1.05,
+      "reviews": 812483,
+      "new": "-",
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "939506311",
+      "name": "Vans Socks S-6637",
+      "category": "Socks",
+      "size": "S",
+      "color": "Оранжевый",
+      "material": "Вискоза",
+      "price": 103460,
+      "rating": 4.49,
+      "reviews": 215867,
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "731088209",
+      "name": "Under Armour Socks I-6000",
+      "category": "Socks",
+      "size": "S",
+      "color": "Желтый",
+      "material": "Лен",
+      "price": 285550,
+      "rating": 2.92,
+      "reviews": 576676,
+      "new": "+",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "901256217",
+      "name": "Under Armour Socks M-3412",
+      "category": "Socks",
+      "size": "L",
+      "color": "Фиолетовый",
+      "material": "Вискоза",
+      "price": 697428,
+      "rating": 3.17,
+      "reviews": 435304,
+      "new": "-",
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "213997372",
+      "name": "Puma Socks B-2820",
+      "category": "Socks",
+      "size": "S",
+      "color": "Голубой",
+      "material": "Лен",
+      "price": 893067,
+      "rating": 1.83,
+      "reviews": 566436,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "504720235",
+      "name": "Asics Socks G-6056",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Оранжевый",
+      "material": "Шелк",
+      "price": 783163,
+      "rating": 3.36,
+      "reviews": 729981,
+      "new": "+",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "618938294",
+      "name": "PleinSport Socks Y-4114",
+      "category": "Socks",
+      "size": "L",
+      "color": "Фиолетовый",
+      "material": "Шелк",
+      "price": 555453,
+      "rating": 2.24,
+      "reviews": 352936,
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "360850447",
+      "name": "Vans Socks H-6912",
+      "category": "Socks",
+      "size": "M",
+      "color": "Фиолетовый",
+      "material": "Вискоза",
+      "price": 329230,
+      "rating": 3.2,
+      "reviews": 669879,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "910236165",
+      "name": "Puma Socks R-4468",
+      "category": "Socks",
+      "size": "M",
+      "color": "Синий",
+      "material": "Шерсть",
+      "price": 343514,
+      "rating": 2.99,
+      "reviews": 887417,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "171310887",
+      "name": "New Balance Socks U-9720",
+      "category": "Socks",
+      "size": "S",
+      "color": "Желтый",
+      "material": "Полиэстер",
+      "price": 838293,
+      "rating": 3.76,
+      "reviews": 386451,
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "719614893",
+      "name": "Asics Socks R-1018",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Голубой",
+      "material": "Полиэстер",
+      "price": 435343,
+      "rating": 4.15,
+      "reviews": 500241,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "578489039",
+      "name": "Adidas Socks Z-3914",
+      "category": "Socks",
+      "size": "S",
+      "color": "Красный",
+      "material": "Нейлон",
+      "price": 389337,
+      "rating": 1.41,
+      "reviews": 827980,
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "674237848",
+      "name": "Lacoste Socks P-5555",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Синий",
+      "material": "Шелк",
+      "price": 243835,
+      "rating": 3.37,
+      "reviews": 692498,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "482804081",
+      "name": "Vans Socks S-7066",
+      "category": "Socks",
+      "size": "L",
+      "color": "Желтый",
+      "material": "Кожа",
+      "price": 526160,
+      "rating": 4.08,
+      "reviews": 143073,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "636794041",
+      "name": "DC Socks E-6212",
+      "category": "Socks",
+      "size": "S",
+      "color": "Голубой",
+      "material": "Хлопок",
+      "price": 302112,
+      "rating": 4.02,
+      "reviews": 655593,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "550295805",
+      "name": "Nike Socks U-5773",
+      "category": "Socks",
+      "size": "M",
+      "color": "Фиолетовый",
+      "material": "Шерсть",
+      "price": 868099,
+      "rating": 1.75,
+      "reviews": 639107,
+      "new": "-",
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "409093734",
+      "name": "Ellesse Socks J-6296",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Фиолетовый",
+      "material": "Полиэстер",
+      "price": 756611,
+      "rating": 2.96,
+      "reviews": 41570,
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "935184371",
+      "name": "Under Armour Socks F-3087",
+      "category": "Socks",
+      "size": "M",
+      "color": "Желтый",
+      "material": "Шерсть",
+      "price": 361112,
+      "rating": 3.12,
+      "reviews": 336600,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "597409699",
+      "name": "Nike Socks Z-1485",
+      "category": "Socks",
+      "size": "M",
+      "color": "Оранжевый",
+      "material": "Хлопок",
+      "price": 396299,
+      "rating": 1.04,
+      "reviews": 430050,
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "992173301",
+      "name": "Converse Socks O-7199",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Фиолетовый",
+      "material": "Кожа",
+      "price": 193596,
+      "rating": 2.17,
+      "reviews": 14133,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "610698323",
+      "name": "DC Socks E-2824",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Оранжевый",
+      "material": "Кожа",
+      "price": 210272,
+      "rating": 2.7,
+      "reviews": 530073
+    }
+  },
+  {
+    "clothing": {
+      "id": "585489195",
+      "name": "PleinSport Socks Y-8744",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Синий",
+      "material": "Нейлон",
+      "price": 602882,
+      "rating": 1.8,
+      "reviews": 513477,
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "187897333",
+      "name": "Ellesse Socks N-1294",
+      "category": "Socks",
+      "size": "L",
+      "color": "Красный",
+      "material": "Хлопок",
+      "price": 681081,
+      "rating": 3.78,
+      "reviews": 635675,
+      "new": "+",
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "128434358",
+      "name": "Puma Socks Q-7200",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Синий",
+      "material": "Полиэстер",
+      "price": 271865,
+      "rating": 4.44,
+      "reviews": 944527,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "327214559",
+      "name": "Reebok Socks Z-2932",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Фиолетовый",
+      "material": "Лен",
+      "price": 725478,
+      "rating": 1.09,
+      "reviews": 605886,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "487393320",
+      "name": "Nike Socks H-3211",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Фиолетовый",
+      "material": "Лен",
+      "price": 288848,
+      "rating": 3.25,
+      "reviews": 985503,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "474696456",
+      "name": "Converse Socks K-6082",
+      "category": "Socks",
+      "size": "M",
+      "color": "Голубой",
+      "material": "Кожа",
+      "price": 471463,
+      "rating": 2.03,
+      "reviews": 275957,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "955896457",
+      "name": "Adidas Socks H-1128",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Оранжевый",
+      "material": "Шелк",
+      "price": 395492,
+      "rating": 3.54,
+      "reviews": 767257,
+      "new": "-"
+    }
+  },
+  {
+    "clothing": {
+      "id": "381612205",
+      "name": "Under Armour Socks O-3311",
+      "category": "Socks",
+      "size": "L",
+      "color": "Фиолетовый",
+      "material": "Вискоза",
+      "price": 449614,
+      "rating": 3.92,
+      "reviews": 653039,
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "127998805",
+      "name": "Nike Socks S-7108",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Голубой",
+      "material": "Вискоза",
+      "price": 582715,
+      "rating": 3.68,
+      "reviews": 805799,
+      "new": "+",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "970302951",
+      "name": "Ellesse Socks X-5948",
+      "category": "Socks",
+      "size": "M",
+      "color": "Оранжевый",
+      "material": "Шелк",
+      "price": 188202,
+      "rating": 4.34,
+      "reviews": 505135,
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "864964052",
+      "name": "Reebok Socks M-1983",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Оранжевый",
+      "material": "Полиэстер",
+      "price": 782258,
+      "rating": 4.24,
+      "reviews": 581637
+    }
+  },
+  {
+    "clothing": {
+      "id": "329963004",
+      "name": "Under Armour Socks X-8314",
+      "category": "Socks",
+      "size": "L",
+      "color": "Голубой",
+      "material": "Нейлон",
+      "price": 993379,
+      "rating": 4.02,
+      "reviews": 780183,
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "572961174",
+      "name": "PleinSport Socks Z-4058",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Фиолетовый",
+      "material": "Кожа",
+      "price": 805067,
+      "rating": 4.18,
+      "reviews": 149456,
+      "new": "+",
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "706874246",
+      "name": "Puma Socks F-7969",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Зеленый",
+      "material": "Полиэстер",
+      "price": 791806,
+      "rating": 1.84,
+      "reviews": 602828,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "702715284",
+      "name": "Brooks Socks K-9849",
+      "category": "Socks",
+      "size": "M",
+      "color": "Синий",
+      "material": "Шерсть",
+      "price": 659669,
+      "rating": 2.12,
+      "reviews": 235746,
+      "new": "+"
+    }
+  },
+  {
+    "clothing": {
+      "id": "561365662",
+      "name": "Asics Socks G-4752",
+      "category": "Socks",
+      "size": "S",
+      "color": "Желтый",
+      "material": "Шелк",
+      "price": 624885,
+      "rating": 2.0,
+      "reviews": 413844,
+      "new": "+",
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "521150971",
+      "name": "Lacoste Socks G-2255",
+      "category": "Socks",
+      "size": "M",
+      "color": "Синий",
+      "material": "Нейлон",
+      "price": 986132,
+      "rating": 1.75,
+      "reviews": 848553,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "296811426",
+      "name": "Lacoste Socks T-4236",
+      "category": "Socks",
+      "size": "S",
+      "color": "Фиолетовый",
+      "material": "Лен",
+      "price": 919702,
+      "rating": 1.48,
+      "reviews": 921616,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "143518636",
+      "name": "Vans Socks B-8420",
+      "category": "Socks",
+      "size": "L",
+      "color": "Оранжевый",
+      "material": "Кожа",
+      "price": 126372,
+      "rating": 5.0,
+      "reviews": 552402
+    }
+  },
+  {
+    "clothing": {
+      "id": "839337003",
+      "name": "Vans Socks O-1466",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Фиолетовый",
+      "material": "Лен",
+      "price": 253599,
+      "rating": 2.08,
+      "reviews": 936438,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "565759179",
+      "name": "Nike Socks P-6012",
+      "category": "Socks",
+      "size": "S",
+      "color": "Оранжевый",
+      "material": "Вискоза",
+      "price": 260708,
+      "rating": 3.04,
+      "reviews": 583477,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "754991456",
+      "name": "Brooks Socks U-9481",
+      "category": "Socks",
+      "size": "M",
+      "color": "Зеленый",
+      "material": "Вискоза",
+      "price": 858540,
+      "rating": 3.91,
+      "reviews": 667694,
+      "new": "+",
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "129753587",
+      "name": "Asics Socks R-2927",
+      "category": "Socks",
+      "size": "S",
+      "color": "Зеленый",
+      "material": "Кожа",
+      "price": 595636,
+      "rating": 1.61,
+      "reviews": 901329,
+      "new": "-",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "104116439",
+      "name": "Addidas Socks N-8962",
+      "category": "Socks",
+      "size": "M",
+      "color": "Голубой",
+      "material": "Лен",
+      "price": 507486,
+      "rating": 4.76,
+      "reviews": 567326,
+      "new": "-"
+    }
+  },
+  {
+    "clothing": {
+      "id": "215946400",
+      "name": "Asics Socks G-3446",
+      "category": "Socks",
+      "size": "M",
+      "color": "Голубой",
+      "material": "Шерсть",
+      "price": 208506,
+      "rating": 3.27,
+      "reviews": 179625
+    }
+  },
+  {
+    "clothing": {
+      "id": "150689146",
+      "name": "Reebok Socks Y-3077",
+      "category": "Socks",
+      "size": "L",
+      "color": "Зеленый",
+      "material": "Полиэстер",
+      "price": 182926,
+      "rating": 1.42,
+      "reviews": 198981,
+      "new": "-",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "568020313",
+      "name": "Vans Socks O-3365",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Желтый",
+      "material": "Лен",
+      "price": 880660,
+      "rating": 2.19,
+      "reviews": 586898,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "416838678",
+      "name": "Vans Socks M-9181",
+      "category": "Socks",
+      "size": "S",
+      "color": "Голубой",
+      "material": "Лен",
+      "price": 575984,
+      "rating": 3.74,
+      "reviews": 303908,
+      "new": "-",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "438699455",
+      "name": "Fila Socks A-3701",
+      "category": "Socks",
+      "size": "M",
+      "color": "Фиолетовый",
+      "material": "Полиэстер",
+      "price": 460922,
+      "rating": 1.2,
+      "reviews": 232410,
+      "new": "+",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "159112683",
+      "name": "Converse Socks T-7195",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Желтый",
+      "material": "Шерсть",
+      "price": 725838,
+      "rating": 4.92,
+      "reviews": 356806,
+      "new": "+",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "472334166",
+      "name": "Addidas Socks Q-6838",
+      "category": "Socks",
+      "size": "L",
+      "color": "Фиолетовый",
+      "material": "Шерсть",
+      "price": 693038,
+      "rating": 1.91,
+      "reviews": 476339,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "960351545",
+      "name": "Adidas Socks M-5207",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Голубой",
+      "material": "Вискоза",
+      "price": 922857,
+      "rating": 4.18,
+      "reviews": 287670,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "682907278",
+      "name": "DC Socks H-8377",
+      "category": "Socks",
+      "size": "M",
+      "color": "Желтый",
+      "material": "Шерсть",
+      "price": 322051,
+      "rating": 3.88,
+      "reviews": 273887
+    }
+  },
+  {
+    "clothing": {
+      "id": "933689505",
+      "name": "Puma Socks T-6456",
+      "category": "Socks",
+      "size": "L",
+      "color": "Красный",
+      "material": "Кожа",
+      "price": 270795,
+      "rating": 4.33,
+      "reviews": 699324
+    }
+  },
+  {
+    "clothing": {
+      "id": "162201397",
+      "name": "DC Socks W-3545",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Фиолетовый",
+      "material": "Хлопок",
+      "price": 321855,
+      "rating": 2.6,
+      "reviews": 573105,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "755661801",
+      "name": "Converse Socks R-2818",
+      "category": "Socks",
+      "size": "S",
+      "color": "Зеленый",
+      "material": "Шелк",
+      "price": 948957,
+      "rating": 2.93,
+      "reviews": 325635,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "230211119",
+      "name": "Puma Socks O-6971",
+      "category": "Socks",
+      "size": "L",
+      "color": "Красный",
+      "material": "Полиэстер",
+      "price": 128539,
+      "rating": 2.59,
+      "reviews": 362495,
+      "new": "+"
+    }
+  },
+  {
+    "clothing": {
+      "id": "658931636",
+      "name": "Adidas Socks U-2419",
+      "category": "Socks",
+      "size": "M",
+      "color": "Зеленый",
+      "material": "Лен",
+      "price": 479064,
+      "rating": 2.64,
+      "reviews": 1576,
+      "new": "-"
+    }
+  },
+  {
+    "clothing": {
+      "id": "472269583",
+      "name": "Adidas Socks L-3723",
+      "category": "Socks",
+      "size": "S",
+      "color": "Синий",
+      "material": "Лен",
+      "price": 500092,
+      "rating": 3.55,
+      "reviews": 508992,
+      "new": "-",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "208377035",
+      "name": "New Balance Socks Y-3950",
+      "category": "Socks",
+      "size": "S",
+      "color": "Голубой",
+      "material": "Хлопок",
+      "price": 920146,
+      "rating": 3.83,
+      "reviews": 26371,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "817363986",
+      "name": "Brooks Socks G-6973",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Красный",
+      "material": "Кожа",
+      "price": 575847,
+      "rating": 1.03,
+      "reviews": 357151,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "171683016",
+      "name": "New Balance Socks W-3272",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Красный",
+      "material": "Кожа",
+      "price": 815403,
+      "rating": 3.71,
+      "reviews": 865781,
+      "new": "+",
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "458911927",
+      "name": "Vans Socks Q-6336",
+      "category": "Socks",
+      "size": "M",
+      "color": "Зеленый",
+      "material": "Лен",
+      "price": 250936,
+      "rating": 4.0,
+      "reviews": 902545,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "622686148",
+      "name": "Fila Socks K-1148",
+      "category": "Socks",
+      "size": "S",
+      "color": "Голубой",
+      "material": "Нейлон",
+      "price": 452951,
+      "rating": 4.72,
+      "reviews": 25098,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "212277313",
+      "name": "Nike Socks W-3535",
+      "category": "Socks",
+      "size": "L",
+      "color": "Оранжевый",
+      "material": "Хлопок",
+      "price": 862887,
+      "rating": 4.42,
+      "reviews": 52534,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "649788974",
+      "name": "New Balance Socks F-1222",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Красный",
+      "material": "Шерсть",
+      "price": 989800,
+      "rating": 1.94,
+      "reviews": 955873,
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "517820145",
+      "name": "DC Socks Y-7878",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Голубой",
+      "material": "Лен",
+      "price": 701619,
+      "rating": 1.75,
+      "reviews": 692724,
+      "new": "-",
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "793455946",
+      "name": "Reebok Socks D-7226",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Оранжевый",
+      "material": "Шелк",
+      "price": 933753,
+      "rating": 4.78,
+      "reviews": 760513,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "813097779",
+      "name": "New Balance Socks K-9247",
+      "category": "Socks",
+      "size": "S",
+      "color": "Фиолетовый",
+      "material": "Хлопок",
+      "price": 381171,
+      "rating": 4.98,
+      "reviews": 533431,
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "896641720",
+      "name": "Under Armour Socks B-5322",
+      "category": "Socks",
+      "size": "S",
+      "color": "Фиолетовый",
+      "material": "Кожа",
+      "price": 933722,
+      "rating": 4.13,
+      "reviews": 457682,
+      "exclusive": "yes",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "722322490",
+      "name": "Nike Socks R-3492",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Красный",
+      "material": "Вискоза",
+      "price": 806367,
+      "rating": 4.07,
+      "reviews": 190564,
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "770348306",
+      "name": "Adidas Socks R-6765",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Зеленый",
+      "material": "Лен",
+      "price": 759932,
+      "rating": 2.34,
+      "reviews": 731007,
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "329397957",
+      "name": "Lacoste Socks W-9145",
+      "category": "Socks",
+      "size": "S",
+      "color": "Голубой",
+      "material": "Нейлон",
+      "price": 260771,
+      "rating": 1.01,
+      "reviews": 2880,
+      "new": "+",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "754301949",
+      "name": "Lacoste Socks U-1946",
+      "category": "Socks",
+      "size": "L",
+      "color": "Желтый",
+      "material": "Лен",
+      "price": 632403,
+      "rating": 3.98,
+      "reviews": 472004,
+      "new": "+",
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "913907889",
+      "name": "Reebok Socks Y-1036",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Зеленый",
+      "material": "Полиэстер",
+      "price": 715335,
+      "rating": 1.32,
+      "reviews": 152349,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "800850405",
+      "name": "DC Socks W-2562",
+      "category": "Socks",
+      "size": "S",
+      "color": "Желтый",
+      "material": "Полиэстер",
+      "price": 978677,
+      "rating": 2.8,
+      "reviews": 216594,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "666988717",
+      "name": "Addidas Socks N-2626",
+      "category": "Socks",
+      "size": "L",
+      "color": "Синий",
+      "material": "Шерсть",
+      "price": 540323,
+      "rating": 2.54,
+      "reviews": 541887,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "118434012",
+      "name": "Reebok Socks T-8959",
+      "category": "Socks",
+      "size": "M",
+      "color": "Красный",
+      "material": "Полиэстер",
+      "price": 409610,
+      "rating": 4.9,
+      "reviews": 712791,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "882180116",
+      "name": "PleinSport Socks O-6578",
+      "category": "Socks",
+      "size": "L",
+      "color": "Оранжевый",
+      "material": "Кожа",
+      "price": 111706,
+      "rating": 3.95,
+      "reviews": 65489,
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "398655162",
+      "name": "Reebok Socks R-3572",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Синий",
+      "material": "Лен",
+      "price": 947217,
+      "rating": 3.34,
+      "reviews": 110770,
+      "new": "+"
+    }
+  },
+  {
+    "clothing": {
+      "id": "227827925",
+      "name": "Converse Socks R-5064",
+      "category": "Socks",
+      "size": "L",
+      "color": "Желтый",
+      "material": "Лен",
+      "price": 953756,
+      "rating": 4.99,
+      "reviews": 619157,
+      "new": "-",
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "764788984",
+      "name": "Under Armour Socks U-2476",
+      "category": "Socks",
+      "size": "L",
+      "color": "Красный",
+      "material": "Хлопок",
+      "price": 401070,
+      "rating": 4.3,
+      "reviews": 234867,
+      "new": "-"
+    }
+  },
+  {
+    "clothing": {
+      "id": "456389836",
+      "name": "Converse Socks G-3818",
+      "category": "Socks",
+      "size": "L",
+      "color": "Голубой",
+      "material": "Кожа",
+      "price": 472260,
+      "rating": 1.82,
+      "reviews": 848394,
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "514082319",
+      "name": "Converse Socks Q-1523",
+      "category": "Socks",
+      "size": "S",
+      "color": "Желтый",
+      "material": "Шелк",
+      "price": 410402,
+      "rating": 1.12,
+      "reviews": 626066,
+      "new": "+",
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "763762267",
+      "name": "Puma Socks P-9399",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Желтый",
+      "material": "Лен",
+      "price": 331987,
+      "rating": 2.87,
+      "reviews": 670714,
+      "new": "-",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "351619624",
+      "name": "Asics Socks I-7879",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Голубой",
+      "material": "Нейлон",
+      "price": 214589,
+      "rating": 3.81,
+      "reviews": 88940,
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "177308813",
+      "name": "PleinSport Socks W-1580",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Желтый",
+      "material": "Шерсть",
+      "price": 648793,
+      "rating": 3.34,
+      "reviews": 464912,
+      "new": "-",
+      "exclusive": "no",
+      "sporty": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "661892666",
+      "name": "Reebok Socks V-5818",
+      "category": "Socks",
+      "size": "L",
+      "color": "Красный",
+      "material": "Шерсть",
+      "price": 227494,
+      "rating": 2.03,
+      "reviews": 378592,
+      "exclusive": "yes",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "987388273",
+      "name": "PleinSport Socks Y-2295",
+      "category": "Socks",
+      "size": "XXL",
+      "color": "Голубой",
+      "material": "Лен",
+      "price": 186436,
+      "rating": 3.51,
+      "reviews": 616815,
+      "new": "+",
+      "exclusive": "no",
+      "sporty": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "544225156",
+      "name": "Adidas Socks R-9963",
+      "category": "Socks",
+      "size": "L",
+      "color": "Зеленый",
+      "material": "Кожа",
+      "price": 438038,
+      "rating": 2.75,
+      "reviews": 73779,
+      "new": "+",
+      "exclusive": "no"
+    }
+  },
+  {
+    "clothing": {
+      "id": "393897115",
+      "name": "DC Socks A-9411",
+      "category": "Socks",
+      "size": "L",
+      "color": "Голубой",
+      "material": "Хлопок",
+      "price": 551676,
+      "rating": 2.64,
+      "reviews": 516584,
+      "new": "+",
+      "exclusive": "yes"
+    }
+  },
+  {
+    "clothing": {
+      "id": "540468986",
+      "name": "Converse Socks N-5342",
+      "category": "Socks",
+      "size": "XL",
+      "color": "Желтый",
+      "material": "Полиэстер",
+      "price": 884714,
+      "rating": 1.31,
+      "reviews": 77125
+    }
+  }
+]
