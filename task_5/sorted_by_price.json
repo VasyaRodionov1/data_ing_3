@@ -1,11 +1,11 @@
 [
   {
-    "id": "2592760",
-    "name": "Портрет Дориана Грея",
-    "brand": "Neoclassic",
-    "price": 209,
-    "old_price": 259,
-    "image_url": "https://content.img-gorod.ru/nomenclature/25/927/2592760-1.jpg?width=200&height=280&fit=bounds"
+    "id": "2735904",
+    "name": "Десять негритят",
+    "brand": "Эксмо",
+    "price": 278,
+    "old_price": 339,
+    "image_url": "https://content.img-gorod.ru/nomenclature/27/359/2735904.jpg?width=200&height=280&fit=bounds"
   },
   {
     "id": "2965154",
@@ -24,76 +24,52 @@
     "image_url": "https://content.img-gorod.ru/nomenclature/29/334/2933423-2.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "2779859",
-    "name": "Восхитительная ведьма",
+    "id": "2878548",
+    "name": "Наследница черного дракона ",
     "brand": "Clever",
-    "price": 415,
-    "old_price": 569,
-    "image_url": "https://content.img-gorod.ru/nomenclature/27/798/2779859-1.jpg?width=200&height=280&fit=bounds"
+    "price": 334,
+    "old_price": 469,
+    "image_url": "https://content.img-gorod.ru/nomenclature/28/785/2878548-1.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "3010944",
-    "name": "2:36 по Аляске",
-    "brand": "Эксмо",
-    "price": 450,
-    "old_price": 549,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/109/3010944-1.jpg?width=200&height=280&fit=bounds"
-  },
-  {
-    "id": "3004903",
-    "name": "Тафгай",
-    "brand": "Жанры",
-    "price": 469,
-    "old_price": 569,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/049/3004903-6.jpg?width=200&height=280&fit=bounds"
-  },
-  {
-    "id": "3012811",
-    "name": "Серебряный змей в корнях сосны - 2",
+    "id": "2964034",
+    "name": "Фундаментальные законы человеческой глупости",
     "brand": "АСТ",
     "price": 513,
     "old_price": 619,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/128/3012811-1.jpg?width=200&height=280&fit=bounds"
-  },
-  {
-    "id": "3008745",
-    "name": "Сказка о снежной принцессе",
-    "brand": "Эксмо",
-    "price": 566,
-    "old_price": 668,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/087/3008745-3.jpg?width=200&height=280&fit=bounds"
-  },
-  {
-    "id": "3005449",
-    "name": "Загадай любовь",
-    "brand": "Эксмо",
-    "price": 566,
-    "old_price": 668,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/054/3005449-8.jpg?width=200&height=280&fit=bounds"
-  },
-  {
-    "id": "2817785",
-    "name": "Голодные игры",
-    "brand": "Neoclassic",
-    "price": 581,
-    "old_price": 709,
-    "image_url": "https://content.img-gorod.ru/nomenclature/28/177/2817785-2.jpg?width=200&height=280&fit=bounds"
+    "image_url": "https://content.img-gorod.ru/nomenclature/29/640/2964034.jpg?width=200&height=280&fit=bounds"
   },
   {
     "id": "3009023",
     "name": "Дневник служанки",
     "brand": "Эксмо",
-    "price": 593,
-    "old_price": 700,
+    "price": 538,
+    "old_price": 659,
     "image_url": "https://content.img-gorod.ru/nomenclature/30/090/3009023-4.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "3008274",
-    "name": "Посмотри, отвернись, посмотри",
-    "brand": "Жанры",
-    "price": 600,
-    "old_price": 729,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/082/3008274-6.jpg?width=200&height=280&fit=bounds"
+    "id": "2997177",
+    "name": "Душа меча. Лисья тень. Книга 2",
+    "brand": "Popcorn Books",
+    "price": 559,
+    "old_price": 829,
+    "image_url": "https://content.img-gorod.ru/nomenclature/29/971/2997177-3.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "2966317",
+    "name": "Безлюдное место: Как ловят маньяков в России",
+    "brand": "Альпина Паблишер",
+    "price": 588,
+    "old_price": 759,
+    "image_url": "https://content.img-gorod.ru/nomenclature/29/663/2966317.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "3015728",
+    "name": "Фейри-профайлер",
+    "brand": "Эксмо",
+    "price": 662,
+    "old_price": 781,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/157/3015728-6.jpg?width=200&height=280&fit=bounds"
   },
   {
     "id": "2921319",
@@ -104,36 +80,52 @@
     "image_url": "https://content.img-gorod.ru/nomenclature/29/213/2921319.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "3006762",
-    "name": "Клуб Романтики. Цветок из огня Тиамат",
-    "brand": "АСТ",
-    "price": 688,
-    "old_price": 829,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/067/3006762-5.jpg?width=200&height=280&fit=bounds"
+    "id": "3003598",
+    "name": "Избушка на костях",
+    "brand": "Манн, Иванов и Фербер",
+    "price": 673,
+    "old_price": 889,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/035/3003598-4.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "3000244",
-    "name": "Синий шепот. Книга 1",
-    "brand": "АСТ",
-    "price": 700,
-    "old_price": 826,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/002/3000244-7.jpg?width=200&height=280&fit=bounds"
-  },
-  {
-    "id": "3012228",
-    "name": "Санта-Хрякус",
-    "brand": "Эксмо",
-    "price": 711,
-    "old_price": 839,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/122/3012228-1.jpg?width=200&height=280&fit=bounds"
-  },
-  {
-    "id": "3007935",
-    "name": "Дом огней",
-    "brand": "Азбука",
+    "id": "3009978",
+    "name": "Без права на возвращение. Исповедь разведчика",
+    "brand": "Наше Завтра",
     "price": 714,
-    "old_price": 843,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/079/3007935-3.jpg?width=200&height=280&fit=bounds"
+    "old_price": 1039,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/099/3009978-1.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "3010153",
+    "name": "Легенда о Чжаояо. Книга 1",
+    "brand": "АСТ",
+    "price": 720,
+    "old_price": 850,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/101/3010153-10.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "2527052",
+    "name": "Вторая жизнь Уве",
+    "brand": "Синдбад",
+    "price": 727,
+    "old_price": 1099,
+    "image_url": "https://content.img-gorod.ru/nomenclature/25/270/2527052.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "2997180",
+    "name": "Цветы пиона на снегу. Том 1: роман",
+    "brand": "Кислород (Росмэн)",
+    "price": 749,
+    "old_price": 869,
+    "image_url": "https://content.img-gorod.ru/nomenclature/29/971/2997180-3.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "3020402",
+    "name": "Зацепить 13-го: роман",
+    "brand": "Азбука",
+    "price": 757,
+    "old_price": 893,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/204/3020402-2.jpg?width=200&height=280&fit=bounds"
   },
   {
     "id": "2999738",
@@ -141,39 +133,55 @@
     "brand": "Манн, Иванов и Фербер",
     "price": 759,
     "old_price": 896,
-    "image_url": "https://content.img-gorod.ru/nomenclature/29/997/2999738-3.jpg?width=200&height=280&fit=bounds"
+    "image_url": "https://content.img-gorod.ru/nomenclature/29/997/2999738-4.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "3006996",
-    "name": "Возвращение в кафе Полустанок",
+    "id": "2142706",
+    "name": "Бегущий за ветром",
+    "brand": "Фантом Пресс",
+    "price": 771,
+    "old_price": 1149,
+    "image_url": "https://content.img-gorod.ru/nomenclature/21/427/2142706.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "2615871",
+    "name": "Жареные зеленые помидоры в кафе \"Полустанок\"",
     "brand": "Фантом Пресс",
     "price": 784,
     "old_price": 1149,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/069/3006996-3.jpg?width=200&height=280&fit=bounds"
+    "image_url": "https://content.img-gorod.ru/nomenclature/26/158/2615871.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "3012567",
-    "name": "Наследие",
+    "id": "2771838",
+    "name": "Там, где раки поют",
+    "brand": "Фантом Пресс",
+    "price": 784,
+    "old_price": 1149,
+    "image_url": "https://content.img-gorod.ru/nomenclature/27/718/2771838.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "3020066",
+    "name": "Аватар короля. Истинный вольный. Книга 2",
     "brand": "АСТ",
-    "price": 820,
-    "old_price": 968,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/125/3012567-2.jpg?width=200&height=280&fit=bounds"
+    "price": 799,
+    "old_price": 943,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/200/3020066-3.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "3013295",
-    "name": "Дама с букетом гвоздик",
-    "brand": "Иностранка",
-    "price": 823,
-    "old_price": 1019,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/132/3013295-2.jpg?width=200&height=280&fit=bounds"
+    "id": "2998190",
+    "name": "Птицы",
+    "brand": "Манн, Иванов и Фербер",
+    "price": 799,
+    "old_price": 1039,
+    "image_url": "https://content.img-gorod.ru/nomenclature/29/981/2998190-4.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "3013292",
-    "name": "Кодекс Алеры. Книга 2. Битва за Кальдерон",
-    "brand": "Азбука",
-    "price": 823,
+    "id": "3018590",
+    "name": "Мастер и Маргарита",
+    "brand": "Эксмо",
+    "price": 844,
     "old_price": 1019,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/132/3013292-3.jpg?width=200&height=280&fit=bounds"
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/185/3018590-5.jpg?width=200&height=280&fit=bounds"
   },
   {
     "id": "2996586",
@@ -184,28 +192,44 @@
     "image_url": "https://content.img-gorod.ru/nomenclature/29/965/2996586-4.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "3004580",
-    "name": "Путешествие в Элевсин",
-    "brand": "Эксмо",
-    "price": 949,
-    "old_price": 1120,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/045/3004580-6.jpg?width=200&height=280&fit=bounds"
+    "id": "2993900",
+    "name": "Четвертое крыло: роман",
+    "brand": "Кислород (Росмэн)",
+    "price": 999,
+    "old_price": 1149,
+    "image_url": "https://content.img-gorod.ru/nomenclature/29/939/2993900-3.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "2998190",
-    "name": "Птицы",
-    "brand": "Манн, Иванов и Фербер",
-    "price": 959,
-    "old_price": 1132,
-    "image_url": "https://content.img-gorod.ru/nomenclature/29/981/2998190-4.jpg?width=200&height=280&fit=bounds"
+    "id": "3009025",
+    "name": "Владычица степей",
+    "brand": "Freedom",
+    "price": 1001,
+    "old_price": 1181,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/090/3009025-5.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "3001263",
-    "name": "Дело Аляски Сандерс",
-    "brand": "АСТ",
-    "price": 990,
-    "old_price": 1168,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/012/3001263-4.jpg?width=200&height=280&fit=bounds"
+    "id": "3020531",
+    "name": "Малазанская книга павших. Книга 5. Полуночный прилив",
+    "brand": "Азбука",
+    "price": 1019,
+    "old_price": 1249,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/205/3020531-2.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "3020535",
+    "name": "Пена. Дамское Счастье",
+    "brand": "Иностранка",
+    "price": 1019,
+    "old_price": 1249,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/205/3020535-2.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "3020536",
+    "name": "Холодный дом",
+    "brand": "Иностранка",
+    "price": 1019,
+    "old_price": 1249,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/205/3020536-2.jpg?width=200&height=280&fit=bounds"
   },
   {
     "id": "3001530",
@@ -224,43 +248,75 @@
     "image_url": "https://content.img-gorod.ru/nomenclature/29/981/2998182-5.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "2987265",
-    "name": "Троецарствие: роман",
-    "brand": "Иностранка",
-    "price": 1226,
-    "old_price": 1459,
-    "image_url": "https://content.img-gorod.ru/nomenclature/29/872/2987265_3.jpg?width=200&height=280&fit=bounds"
+    "id": "2661797",
+    "name": "Князь тьмы. Полная история Мастера и Маргариты",
+    "brand": "Азбука",
+    "price": 1171,
+    "old_price": 1409,
+    "image_url": "https://content.img-gorod.ru/nomenclature/26/617/2661797.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "2996776",
-    "name": "Благословение небожителей. Том 5",
+    "id": "2987721",
+    "name": "Белые пешки",
+    "brand": "Питер",
+    "price": 1203,
+    "old_price": 1359,
+    "image_url": "https://content.img-gorod.ru/nomenclature/29/877/2987721_1.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "3010155",
+    "name": "Дюна",
+    "brand": "Neoclassic",
+    "price": 1215,
+    "old_price": 1434,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/101/3010155-6.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "3016326",
+    "name": "Благословение небожителей. Том 6",
     "brand": "КОМИЛЬФО",
     "price": 1250,
     "old_price": 1475,
-    "image_url": "https://content.img-gorod.ru/nomenclature/29/967/2996776-2.jpg?width=200&height=280&fit=bounds"
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/163/3016326-5.jpg?width=200&height=280&fit=bounds"
   },
   {
-    "id": "2919318",
-    "name": "Мой театр. Книга 1",
+    "id": "3013289",
+    "name": "Вы - чародей: Пособие по выживанию в средневековой Англии: роман",
+    "brand": "Азбука",
+    "price": 1324,
+    "old_price": 1569,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/132/3013289-4.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "2110110",
+    "name": "Атлант расправил плечи (комплект из 3 книг)",
+    "brand": "Альпина Паблишер",
+    "price": 1425,
+    "old_price": 1779,
+    "image_url": "https://content.img-gorod.ru/nomenclature/21/101/2110110.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "3018631",
+    "name": "Atomic Heart. Предыстория «Предприятия 3826». Специальное издание: роман",
+    "brand": "Жанры",
+    "price": 1435,
+    "old_price": 1693,
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/186/3018631-4.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "2561144",
+    "name": "Дом, в котором... (подарочное издание)",
+    "brand": "Livebook",
+    "price": 1588,
+    "old_price": 2309,
+    "image_url": "https://content.img-gorod.ru/nomenclature/25/611/2561144-1.jpg?width=200&height=280&fit=bounds"
+  },
+  {
+    "id": "3017078",
+    "name": "Мой театр. Книга II",
     "brand": "АСТ",
     "price": 1630,
     "old_price": 1923,
-    "image_url": "https://content.img-gorod.ru/nomenclature/29/193/2919318-2.jpg?width=200&height=280&fit=bounds"
-  },
-  {
-    "id": "3010337",
-    "name": "Полусолнце",
-    "brand": "Манн, Иванов и Фербер",
-    "price": 2110,
-    "old_price": 2619,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/103/3010337-4.jpg?width=200&height=280&fit=bounds"
-  },
-  {
-    "id": "3003597",
-    "name": "Мистер Вечный Канун. Специальное издание",
-    "brand": "Манн, Иванов и Фербер",
-    "price": 2533,
-    "old_price": 2989,
-    "image_url": "https://content.img-gorod.ru/nomenclature/30/035/3003597-4.jpg?width=200&height=280&fit=bounds"
+    "image_url": "https://content.img-gorod.ru/nomenclature/30/170/3017078-4.jpg?width=200&height=280&fit=bounds"
   }
 ]

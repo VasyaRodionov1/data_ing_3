@@ -5,7 +5,6 @@ import json
 from collections import Counter
 
 
-# Получение HTML-кода страницы
 def get_page(url):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
@@ -13,7 +12,6 @@ def get_page(url):
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         return response.text
-
 
 # Парсинг данных о книгах
 def parse_books(url):
@@ -29,17 +27,17 @@ def parse_books(url):
 
     for book_elem in book_elements:
         book_info = {
-            "id": book_elem["data-chg-product-id"],
-            "name": book_elem["data-chg-product-name"],
-            "brand": book_elem["data-chg-product-brand"],
-            "price": int(book_elem["data-chg-product-price"]),
-            "old_price": int(book_elem["data-chg-product-old-price"]),
-            "image_url": book_elem.select_one("img.product-picture__img")["data-src"],
+            "id": book_elem.get("data-chg-product-id", ""),
+            "name": book_elem.get("data-chg-product-name", ""),
+            "brand": book_elem.get("data-chg-product-brand", ""),
+            "price": int(book_elem.get("data-chg-product-price", 0)),
+            "old_price": int(book_elem.get("data-chg-product-old-price", 0)),
+            "image_url": book_elem.select_one("img.product-picture__img")["data-src"] if book_elem.select_one("img.product-picture__img") else "",
         }
+
         books.append(book_info)
 
     return books
-
 
 # Функция для записи данных в JSON файл
 def write_to_json(data, filename):
@@ -48,7 +46,7 @@ def write_to_json(data, filename):
     with open(file_path, "w", encoding="utf-8") as json_file:
         json.dump(data, json_file, ensure_ascii=False, indent=2)
 
-
+# Основная функция с операциями
 def go_operations(url):
     catalog_data = parse_books(url)
 
@@ -76,10 +74,11 @@ def go_operations(url):
             "min_price": min_price,
         }
         write_to_json(statistics_data, "price_statistics.json")
+
+        # Статистика по брендам
         brands = [book["brand"] for book in catalog_data]
         brand_frequency = Counter(brands)
         write_to_json(brand_frequency, "brand_frequency.json")
-
 
 # URL каталога
 catalog_url = "https://www.chitai-gorod.ru/bestsell?page=1&filters%5Bcategories%5D=110001"
